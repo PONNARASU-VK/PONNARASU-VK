@@ -3,8 +3,6 @@
 
 - 👋 About me **🧪 Software Testing enthusiast building hands-on expertise in test automation with **TypeScript** and **Playwright**. I enjoy designing reliable, maintainable test frameworks that catch bugs before they reach production.**
 
-- 📫 How to reach me **vponnarasu07@gmail.com**
-
 - 🌱 I’m currently learning **- Test automation with **Playwright** - **CI/CD** pipelines using GitHub Actions - **API testing****
 
 - 💬 Ask me about **Test automation, Playwright, API testing, QA best practices**
