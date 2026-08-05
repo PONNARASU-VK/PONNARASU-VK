@@ -62,4 +62,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ponnarasu-vk&" alt="ponnarasu-vk" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ponnarasu-vk&theme=dark)
