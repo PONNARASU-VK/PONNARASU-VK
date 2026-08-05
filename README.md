@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=QA+Engineer;Playwright+Automation;API+Testing;CI/CD+Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
-</p>
-
 <h3 align="left">Social Presence</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ponnarasu-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ponnarasu-v/" height="30" width="40" /></a>
