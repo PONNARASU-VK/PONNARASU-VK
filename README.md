@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Test automation, Playwright, API testing, QA best practices**
 
-- ![snake gif](https://github.com/ponnarasu-vk/ponnarasu-vk/blob/output/github-contribution-grid-snake.svg)
+- 🧪 Test Cases → ⚙️ Automation → 🚀 CI/CD → ✅ Quality Delivery
 
 <h3 align="left">Social Presence</h3>
 <p align="left">
