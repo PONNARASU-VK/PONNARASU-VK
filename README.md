@@ -9,7 +9,9 @@
 
 - 🧪 Test Cases → ⚙️ Automation → 🚀 CI/CD → ✅ Quality Delivery
 
-- ![snake gif](https://raw.githubusercontent.com/ponnarasu-vk/ponnarasu-vk/output/github-contribution-grid-snake.svg)
+- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=QA+Engineer;Playwright+Automation;API+Testing;CI/CD+Enthusiast" />
+</p>
 
 <h3 align="left">Social Presence</h3>
 <p align="left">
