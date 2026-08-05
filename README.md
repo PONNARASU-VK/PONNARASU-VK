@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Test automation, Playwright, API testing, QA best practices**
 
+- ![snake gif](https://github.com/ponnarasu-vk/ponnarasu-vk/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Social Presence</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ponnarasu-v/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ponnarasu-v/" height="30" width="40" /></a>
