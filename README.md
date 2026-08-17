@@ -67,5 +67,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>
   </a>
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ponnarasu-vk&theme=dark)
