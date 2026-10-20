@@ -109,10 +109,9 @@ To become a skilled **Python Full-Stack Developer** by building meaningful appli
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
   </a>
-<a href="https://cursor.com/" target="_blank" rel="noreferrer">
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" alt="Cursor" width="40" height="40"/>
+ <a href="https://cursor.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Cursor-AI%20Editor-black?style=for-the-badge&logoColor=white" alt="Cursor AI Editor"/>
 </a>
-
 </p>
 
 ---
